@@ -1,3 +1,4 @@
+from app import app
 from flask import render_template, request
 import os
 from werkzeug.utils import secure_filename
